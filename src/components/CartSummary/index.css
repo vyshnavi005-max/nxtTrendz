@@ -1,0 +1,21 @@
+.cart-summary {
+  background-color: #fff;
+  font-family: 'Roboto';
+}
+.total-amount {
+  color: #171f46;
+  font-size: 20px;
+}
+
+.total-items {
+  color: #616e7c;
+  font-size: 15px;
+}
+.checkout {
+  background-color: #0b69ff;
+  padding: 10px;
+  font-size: 15px;
+  color: #fff;
+  border-style: none;
+  border-radius: 5px;
+}
