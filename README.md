@@ -5,6 +5,7 @@ NxtTrendz is a fully functional e-commerce React application built as part of th
 ---
 
 ## 📁 Folder Structure
+```bash
 nxtTrendz/
 ├── public/
 ├── src/
@@ -31,7 +32,7 @@ nxtTrendz/
 │ │ └── CartContext.js
 │ ├── App.css
 │ └── App.js
-
+```
 
 
 
