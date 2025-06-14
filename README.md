@@ -61,11 +61,6 @@ nxtTrendz/
 
 ---
 
-## 📸 Demo Screenshots
-
-> Add screenshots or screen recording GIF here
-
----
 
 ## 📄 Getting Started
 
